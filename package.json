@@ -1,0 +1,8 @@
+{
+  "name": "kirby-panel-flags",
+  "description": "Panel flags for multi language installations of Kirby CMS",
+  "author": "Jens Törnell <jens.tornell@gmail.com>",
+  "version": "0.1",
+  "type": "kirby-plugin",
+  "license": "MIT"
+}
